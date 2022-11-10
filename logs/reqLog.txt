@@ -1,0 +1,13 @@
+20221108	21:59:47	aa5b95a5-daff-4ac3-b846-00f0c8813dfc	/	GET
+20221108	21:59:47	99ff4d1f-b0ac-4718-a23c-2f8d22b392eb	/css/style.css	GET
+20221108	21:59:47	dbf781aa-0038-4b8e-a377-d4c5684db72b	/favicon.ico	GET
+20221108	22:03:50	fa0713d9-dbfc-4373-82ec-9da5a24f4de5	/new-page	GET
+20221108	22:03:50	9022edb4-44ba-479d-ab4d-778d21bb663b	/img/img1.jpg	GET
+20221108	22:03:50	4398c4ca-5ce4-419b-ab47-ff810f75fe0f	/css/style.css	GET
+20221108	22:03:50	f614cfe8-89b5-4682-8073-5dda85d93e1e	/favicon.ico	GET
+20221109	17:58:02	2292318a-bef3-4e27-be89-b8ce1cde03b1	/new-page.html/tGET
+20221109	17:58:02	8b3de5e7-7e70-4d54-b77d-8b198dcac2c8	/css/style.css/tGET
+20221109	17:58:02	2d9e0e6c-baa7-4898-82b2-bed1e77eefbd	/img/img1.jpg/tGET
+20221109	17:58:02	627b2f40-96a1-4ab2-b055-c5d4ef27cd07	/favicon.ico/tGET
+20221109	17:58:06	76b24d4a-ac40-49ee-8643-2a06034f7f2a	//tGET
+20221109	17:58:06	835068da-b0b2-4935-8c74-3c7ece741146	/css/style.css/tGET
