@@ -1,5 +1,5 @@
 {
-  "name": "06tut",
+  "name": "10tut",
   "version": "1.0.0",
   "description": "Express tutorial",
   "main": "server.js",
@@ -10,19 +10,13 @@
   "author": "Dave Gray",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "date-fns": "^2.23.0",
+    "express": "^4.17.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "date-fns": "^2.29.3",
     "nodemon": "^2.0.12"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gitdagray/nodejs_web_server.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gitdagray/nodejs_web_server/issues"
-  },
-  "homepage": "https://github.com/gitdagray/nodejs_web_server#readme"
+  }
 }
