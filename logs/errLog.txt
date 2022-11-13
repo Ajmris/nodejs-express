@@ -1,0 +1,1 @@
+20221113	23:32:15	bef9ef26-ada6-4ee3-a66d-ad311c0e4c11	Error: ENOENT: no such file or directory, stat 'C:\Users\Szymon\Documents\WWW\js\nodejs express\views\new-page.html.html'
