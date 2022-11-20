@@ -28,3 +28,12 @@
 20221113	23:34:15	d8cae14b-dfd1-4874-9287-b7734e0f2507	GET	undefined	/img/img1.jpg
 20221113	23:34:15	d908f91c-37c1-4383-8970-c4187a689723	GET	undefined	/css/style.css
 20221113	23:34:15	8086cc63-37bf-48c8-b99c-ea4b2a378d27	GET	undefined	/favicon.ico
+20221118	23:03:13	08f8850a-8e77-4ac1-9965-d6a89e98bfc5	GET	undefined	/auth
+20221118	23:03:33	09a9c6e1-16ce-46a2-a555-9f5763a14884	GET	undefined	/auth
+20221118	23:03:37	34a8a6ce-fa14-42b2-a829-6b728d95c2fe	POST	undefined	/auth
+20221118	23:03:57	9d3a16a9-5226-4b47-979d-7a946041b0d1	PUT	undefined	/auth
+20221118	23:04:09	22cbdd16-22c5-4bf1-bf99-c57b65ef65bd	PATCH	undefined	/auth
+20221118	23:05:44	b3886d55-b3c2-46b3-b2a7-8e16510523dd	POST	undefined	/auth
+20221118	23:06:21	412fb2cf-f9f7-4c53-b961-ee50dfe05451	POST	undefined	/auth
+20221120	17:05:50	1e3ec483-ad2b-4276-8888-ddd17dbb1012	POST	undefined	/register
+20221120	17:08:45	2936868c-89e2-4ab0-88d5-2582d82263fb	POST	undefined	/register

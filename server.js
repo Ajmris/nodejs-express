@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express=require('express');
 const app=express();
 const path=require('path');
@@ -7,15 +8,19 @@ const {logger}=require('./middleware/logEvents');
 const errorHandler=require('./middleware/errorHandler');
 const verifyJWT=require('./middleware/verifyJWT');
 const cookieParser=require('cookie-parser');
+const mongoose=require('mongoose');
+const connectBD=require('./config/dbConn');
 const PORT=process.env.PORT || 3001;
 
+// Połączenie z MongoDB
+connectBD();
 // custom middleware logger
 app.use(logger);
 
 // Cross Origin Resource Sharing
 app.use(cors(corsOptions));
 
-//ten frabment kodu, dodanie public oraz umiesczenie w nim folderów
+//ten fragment kodu, dodanie public oraz umiesczenie w nim folderów
 // css i img sprawi, że pliki z widoków będą ostylowane.
 app.use(express.urlencoded({extended: false}));
 
@@ -50,4 +55,7 @@ app.all('*', (req, res)=>{
 
 app.use(errorHandler);
 // nasłóchiwanie
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+mongoose.connection.once('open', ()=>{
+    console.log('Connect to MongoDB');
+    app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+})
