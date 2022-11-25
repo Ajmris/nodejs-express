@@ -1,1 +1,20 @@
 20221113	23:32:15	bef9ef26-ada6-4ee3-a66d-ad311c0e4c11	Error: ENOENT: no such file or directory, stat 'C:\Users\Szymon\Documents\WWW\js\nodejs express\views\new-page.html.html'
+20221120	22:20:28	e92172a4-4900-424e-a902-7c21dda21bf7	TypeError: authHeader?.startWith is not a function
+20221120	22:25:13	b0250310-e9d1-485a-b7fe-d18cd56cefc6	TypeError: authHeader?.startWith is not a function
+20221120	22:25:15	3c89e696-92b2-495f-b249-6d245a7d6c39	TypeError: authHeader?.startWith is not a function
+20221120	22:27:36	6d8c7dd3-a58d-48e2-837f-84998d0a0da6	TypeError: authHeader?.startWith is not a function
+20221120	22:28:48	d6a53c5f-6201-4e3d-8fa9-ea9135ab8f86	TypeError: authHeader?.startWith is not a function
+20221120	22:30:54	677871d0-58e5-4db9-83d7-effbdb41bac6	TypeError: authHeader?.startWith is not a function
+20221120	22:35:35	b0bd6d41-b51b-477d-b8d6-d33b571acc1e	TypeError: authHeader?.startWith is not a function
+20221120	22:35:38	15592db4-6799-4cdc-bc60-158d13e187be	TypeError: authHeader?.startWith is not a function
+20221120	22:35:39	5e65e989-8540-4b01-a351-c58759152e99	TypeError: authHeader?.startWith is not a function
+20221120	22:35:40	206360d4-d744-46a4-9350-495e577e71b5	TypeError: authHeader?.startWith is not a function
+20221120	22:39:16	198fb197-af38-4cc4-9a12-8a046b7bbbe7	TypeError: authHeader?.startWith is not a function
+20221120	22:43:38	7a9156ea-511a-406b-9d76-013b0aec3fd5	TypeError: authHeader?.startWith is not a function
+20221120	22:43:39	72812fb4-f4d3-4277-9e3a-00c7bed3b5e0	TypeError: authHeader?.startWith is not a function
+20221120	22:44:43	51584800-7ac7-445e-b6f2-8e5e81b93d31	TypeError: authHeader?.startWith is not a function
+20221120	22:56:25	372e0150-c21f-4306-b76a-c266f7cef35d	TypeError: authHeader?.startWith is not a function
+20221120	22:59:17	676052b1-cf57-4168-9c28-9e10eb6db9bf	TypeError: authHeader?.startWith is not a function
+20221120	23:02:20	1c93a902-53ba-44c6-8011-d8090e7a8676	TypeError: authHeader?.startWith is not a function
+20221120	23:02:27	5b716faa-f1f6-4974-a6f2-6546b0181e57	TypeError: authHeader?.startWith is not a function
+20221120	23:02:28	2e93aa28-378f-4181-884f-38e21f956f1c	TypeError: authHeader?.startWith is not a function
